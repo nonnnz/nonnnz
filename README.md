@@ -23,7 +23,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 * **Sakura Science Program:** International exchange participant focusing on advanced technology.
 
 ## 🛠 Coding Activity
-
+<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
 ---
 
 ### ⚡ GitHub Metrics

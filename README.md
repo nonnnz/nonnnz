@@ -26,8 +26,6 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 199.7 kB Used in GitHub's Storage 
@@ -109,14 +107,6 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
  Last Updated on 08/04/2026 06:20:38 UTC
 <!--END_SECTION:waka-->
----
-
-### ⚡ GitHub Metrics
-<p align="left">
-  <a href="https://wakatime.com/@c4e6bfae-a22f-499c-b2d3-0459c280285b">
-    <img src="https://wakatime.com/badge/user/c4e6bfae-a22f-499c-b2d3-0459c280285b.svg" alt="wakatime">
-  </a>
-</p>
 
 ---
 

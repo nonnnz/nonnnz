@@ -19,8 +19,8 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ### 🚀 Current Projects & Activities
 * **AI-Powered Threat Intelligence Platform:** Building a system to identify and mitigate digital threats.
-* **NSC 2025:** Researching and developing projects in Deep Learning and Robotics.
-* **Sakura Science Program:** International exchange participant focusing on advanced technology.
+* **NSC 2025:** Developing OAx, an AI-powered retail assistant using local LLMs (Ollama) and RAG for inventory management.
+* **Sakura Science Program:** Researching and engineering Deep Learning control systems for Robotics at Gunma University, Japan.
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->

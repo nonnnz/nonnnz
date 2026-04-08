@@ -28,18 +28,6 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.04%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 199.7 kB Used in GitHub's Storage 
- > 
-> 🏆 200 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text

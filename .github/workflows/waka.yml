@@ -1,0 +1,21 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # รันทุกวันเวลา 02:00 UTC (09:00 น. เวลาไทย) ตั้งแต่วันจันทร์-ศุกร์
+    - cron: "0 2 * * 1-5"
+  workflow_dispatch: # เปิดให้กดรันเองได้ด้วยมือ
+
+jobs:
+  update-readme:
+    name: Waka - Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@v0.3.1
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TOTAL: true

@@ -22,9 +22,8 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 * **NSC 2025:** Researching and developing projects in Deep Learning and Robotics.
 * **Sakura Science Program:** International exchange participant focusing on advanced technology.
 
-### 📊 Stats & Activity
-
 ## 🛠 Coding Activity
+
 ---
 
 ### ⚡ GitHub Metrics

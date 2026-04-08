@@ -24,6 +24,24 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 March 2026 - To: 07 April 2026
+
+Total Time: 31 hrs 53 mins
+
+TypeScript   11 hrs 55 mins  ████████▓░░░░░░░░░░░░░░░░   35.24 %
+Markdown     5 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Python       4 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+YAML         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other        1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+SQL          1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Bash         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+HTML         1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Git Config   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+```
+
 <!--END_SECTION:waka-->
 ---
 

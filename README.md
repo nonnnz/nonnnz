@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    src="assets/banner.webp" 
+    width="100%" 
+    style="border-radius: 15px; overflow: hidden; display: block;" 
+  />
+</div>
+
 # Hi there, I'm Ratchanon B. 👋
 [![LinkedIn](https://img.shields.io/static/v1?label=view&labelColor=505050&message=LinkedIn&color=%23e6ddd8&style=flat&logoColor=%230076D6)](https://www.linkedin.com/in/ratchanon-buachum/)
 [![Visitor #](https://hits.sh/github.com/nonnnz/hits.svg?color=e6ddd8)](https://hits.sh/github.com/nonnnz/hits/)

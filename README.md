@@ -1,10 +1,32 @@
-# Hi there 👋
+# Hi there, I'm Ratchanon B. 👋
+[![LinkedIn](https://img.shields.io/static/v1?label=view&labelColor=505050&message=LinkedIn&color=%23e6ddd8&style=flat&logoColor=%230076D6)](https://www.linkedin.com/in/ratchanon-buachum/)
+[![Visitor #](https://hits.sh/github.com/nonnnz/hits.svg?color=e6ddd8)](https://hits.sh/github.com/nonnnz/hits/)
 
-I am a Second-year Bachelor of Science in Computer Science student who is passionate about computing and interested in discovering more about software development. 
+I am a Computer Science student at **King Mongkut's University of Technology North Bangkok (KMUTNB)** and currently a **Part-time AI & Full Stack Developer**
 
-## Stats
-[![wakatime](https://wakatime.com/badge/user/c4e6bfae-a22f-499c-b2d3-0459c280285b.svg)](https://wakatime.com/@c4e6bfae-a22f-499c-b2d3-0459c280285b)
+### 🔭 Focus & Interests
+* **AI & Deep Learning:** Developing intelligent systems and exploring robotics.
+* **Cybersecurity:** Building secure infrastructures and threat intelligence.
+* **Web Development:** Full Stack development with a focus on security.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonnnz&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&hide=PowerShell,BatchFile&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Current Projects & Activities
+* **AI-Powered Threat Intelligence Platform:** Building a system to identify and mitigate digital threats.
+* **NSC 2025:** Researching and developing projects in Deep Learning and Robotics.
+* **Sakura Science Program:** International exchange participant focusing on advanced technology.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nonnn&theme=github_dark&layout=compact&langs_count=16&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats & Activity
+
+## 🛠 Coding Activity
+---
+
+### ⚡ GitHub Metrics
+<p align="left">
+  <a href="https://wakatime.com/@c4e6bfae-a22f-499c-b2d3-0459c280285b">
+    <img src="https://wakatime.com/badge/user/c4e6bfae-a22f-499c-b2d3-0459c280285b.svg" alt="wakatime">
+  </a>
+</p>
+
+---
+
+### 📫 Connect with me
+* **Email:** contact@nonnnz.dev

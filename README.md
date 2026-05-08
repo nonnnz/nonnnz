@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C631%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-986.73%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -55,17 +55,17 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Other                    3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Python                   3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-TypeScript               3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-JSON                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Markdown                 5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Other                    3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+TypeScript               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Python                   2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 🔥 Editors: 
-Antigravity              22 hrs 22 mins      █████████████████████████   100.00 % 
+Antigravity              24 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +85,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 05:21:17 UTC
+ Last Updated on 08/05/2026 04:47:14 UTC
 <!--END_SECTION:waka-->
 
 ---

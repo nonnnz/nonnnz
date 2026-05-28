@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-989.08%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -55,28 +55,28 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Python                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-HTML                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-SQL                      1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+JavaScript               3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+HTML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Makefile                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🔥 Editors: 
-Antigravity              13 hrs 33 mins      █████████████████████████   98.19 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Antigravity              14 hrs 25 mins      █████████████████████████   98.41 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -86,7 +86,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 06:07:46 UTC
+ Last Updated on 28/05/2026 06:00:02 UTC
 <!--END_SECTION:waka-->
 
 ---

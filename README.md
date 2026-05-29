@@ -24,50 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%2031%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-989.08%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-🌆 Daytime                113 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-🌃 Evening                123 commits         ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌙 Night                  123 commits         ████████░░░░░░░░░░░░░░░░░   30.52 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Wednesday                90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-JavaScript               3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-HTML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Makefile                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-
-🔥 Editors: 
-Antigravity              14 hrs 25 mins      █████████████████████████   98.41 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-
-💻 Operating System: 
-Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.02%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
@@ -86,7 +43,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 06:00:02 UTC
+ Last Updated on 29/05/2026 06:03:29 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,17 +55,18 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               9 hrs 23 mins       ████████████████░░░░░░░░░   62.02 % 
-Python                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Git Config               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JavaScript               9 hrs 23 mins       ██████████████░░░░░░░░░░░   56.50 % 
+Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Git Config               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-Antigravity              15 hrs 8 mins       █████████████████████████   100.00 % 
+Antigravity              16 hrs 5 mins       ████████████████████████░   96.89 % 
+Claude Code              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Windows                  15 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +86,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 06:26:59 UTC
+ Last Updated on 03/06/2026 06:43:14 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -24,28 +24,28 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-🌆 Daytime                113 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌃 Evening                123 commits         ████████░░░░░░░░░░░░░░░░░   30.37 % 
-🌙 Night                  125 commits         ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+🌆 Daytime                113 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌃 Evening                125 commits         ████████░░░░░░░░░░░░░░░░░   30.49 % 
+🌙 Night                  128 commits         ████████░░░░░░░░░░░░░░░░░   31.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Wednesday                90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Sunday                   69 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 ```
 
 
@@ -55,29 +55,29 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   11 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.83 % 
-JavaScript               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Markdown                 4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Git Config               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Python                   19 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.26 % 
+Markdown                 7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Other                    3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+JavaScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-Antigravity              24 hrs 13 mins      ████████████████████░░░░░   79.57 % 
-Claude Code              3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Codex CLI                2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Antigravity              29 hrs 44 mins      ██████████████████░░░░░░░   70.76 % 
+Codex CLI                6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Claude Code              6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 
 💻 Operating System: 
-Windows                  30 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -87,7 +87,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 06:12:03 UTC
+ Last Updated on 08/06/2026 06:27:21 UTC
 <!--END_SECTION:waka-->
 
 ---

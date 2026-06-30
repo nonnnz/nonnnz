@@ -55,19 +55,19 @@ Sunday                   69 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   43.29 % 
-HTML                     6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Markdown                 4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-YAML                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-TypeScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Python                   11 hrs 26 mins      ████████████░░░░░░░░░░░░░   48.88 % 
+Markdown                 3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+HTML                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+TypeScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.01 % 
-Codex CLI                9 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Antigravity              8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Claude Code              11 hrs 36 mins      ████████████░░░░░░░░░░░░░   49.56 % 
+Codex CLI                8 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.55 % 
+Antigravity              3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 
 💻 Operating System: 
-Windows                  33 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +87,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 06:26:55 UTC
+ Last Updated on 30/06/2026 06:00:32 UTC
 <!--END_SECTION:waka-->
 
 ---

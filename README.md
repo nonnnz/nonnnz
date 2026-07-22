@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C940%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C945%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,22 +55,22 @@ Sunday                   69 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   11 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   38.50 % 
-Markdown                 7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Other                    3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Bash                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Python                   15 hrs 17 mins      █████████████░░░░░░░░░░░░   51.75 % 
+Markdown                 8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Codex CLI                6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Zed                      6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Claude Code              6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Antigravity              2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Claude Code              10 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+VS Code                  7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Zed                      7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Codex CLI                3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  15 hrs 10 mins      █████████████░░░░░░░░░░░░   51.04 % 
-Mac                      14 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.96 % 
+Windows                  15 hrs 25 mins      █████████████░░░░░░░░░░░░   52.22 % 
+Mac                      14 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.78 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +90,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 04:56:59 UTC
+ Last Updated on 22/07/2026 04:56:29 UTC
 <!--END_SECTION:waka-->
 
 ---

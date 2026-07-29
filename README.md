@@ -24,9 +24,9 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C947%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C947%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,45 +57,45 @@ Sunday                   69 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   13 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
-Markdown                 7 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Bash                     4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Text                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-TypeScript               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Python                   9 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Markdown                 5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Bash                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+TypeScript               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 37 mins      ███████████████░░░░░░░░░░   60.78 % 
-Zed                      7 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-VS Code                  6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Claude Code              17 hrs 14 mins      ███████████████░░░░░░░░░░   58.56 % 
+Zed                      6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+VS Code                  5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Windows                  23 hrs 38 mins      █████████████████░░░░░░░░   66.46 % 
-Mac                      11 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Windows                  18 hrs 19 mins      ████████████████░░░░░░░░░   62.22 % 
+Mac                      11 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 2 mins (95.66%)
+⏱ AI Coding Time: 28 hrs 28 mins (96.7%)
 
-✍️ 13,644 lines written by AI, 39 lines written by hand (99.71% AI-written)
+✍️ 10,250 lines written by AI, 36 lines written by hand (99.65% AI-written)
 
-🔤 2,732,431,205 Input Tokens, 6,288,413 Output Tokens
+🔤 2,632,374,770 Input Tokens, 6,014,290 Output Tokens
 
-💵 $2841.48 Estimated AI Cost This Week
+💵 $2513.70 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 556 AI Prompts
+🧠 32 AI Sessions, 484 AI Prompts
 
-GPT                      9,144 lines         ████████████████░░░░░░░░░   65.44 % 
-Sonnet                   4,830 lines         █████████░░░░░░░░░░░░░░░░   34.56 % 
+GPT                      7,722 lines         ██████████████████░░░░░░░   72.67 % 
+Sonnet                   2,904 lines         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 9,406 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.48% of changed lines were hand-edited
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 9,962 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 04:52:06 UTC
+ Last Updated on 29/07/2026 04:57:34 UTC
 <!--END_SECTION:waka-->
 
 ---

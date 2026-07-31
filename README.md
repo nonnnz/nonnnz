@@ -24,9 +24,9 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,44 +57,45 @@ Sunday                   69 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Markdown                 4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Bash                     3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-TypeScript               2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-YAML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+TypeScript               5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Bash                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 18 mins      █████████████░░░░░░░░░░░░   50.66 % 
-Zed                      6 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-VS Code                  4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Zed                      11 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.07 % 
+VS Code                  8 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Claude Code              7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  13 hrs 26 mins      ██████████████░░░░░░░░░░░   55.38 % 
-Mac                      10 hrs 50 mins      ███████████░░░░░░░░░░░░░░   44.62 % 
+Mac                      18 hrs 55 mins      █████████████████░░░░░░░░   69.82 % 
+Windows                  8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 31 mins (96.85%)
+⏱ AI Coding Time: 26 hrs 4 mins (96.22%)
 
-✍️ 9,503 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,541 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,905,323,501 Input Tokens, 11,924,964 Output Tokens
+🔤 14,489,083,041 Input Tokens, 35,619,467 Output Tokens
 
-💵 $2091.22 Estimated AI Cost This Week
+💵 $3241.62 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 473 AI Prompts
+🧠 90 AI Sessions, 615 AI Prompts
 
-GPT                      7,887 lines         ████████████████████░░░░░   79.22 % 
-Sonnet                   2,069 lines         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      15,603 lines        ████████████████████░░░░░   78.55 % 
+Sonnet                   4,230 lines         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Vscode-Wakatime          30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,070 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📚 Verbose Prompter — average 13,849 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -115,7 +116,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 04:45:09 UTC
+ Last Updated on 31/07/2026 05:22:59 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -27,3 +27,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SYMBOL_VERSION: "1"
           LOCALE: "en"
+          SHOW_AI_CODING: "False"

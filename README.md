@@ -30,51 +30,6 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                113 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                126 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌙 Night                  128 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Sunday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Python                   11 hrs 17 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
-Markdown                 6 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-TypeScript               4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Assembly                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-
-🔥 Editors: 
-Zed                      13 hrs              ████████████░░░░░░░░░░░░░   49.67 % 
-VS Code                  10 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   40.88 % 
-Claude Code              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Antigravity              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-💻 Operating System: 
-Mac                      24 hrs 14 mins      ███████████████████████░░   92.55 % 
-Windows                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +47,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 04:53:19 UTC
+ Last Updated on 07/08/2026 04:17:37 UTC
 <!--END_SECTION:waka-->
 
 ---

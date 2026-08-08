@@ -28,3 +28,4 @@ jobs:
           SYMBOL_VERSION: "1"
           LOCALE: "en"
           SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"

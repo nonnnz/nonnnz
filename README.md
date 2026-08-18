@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C040%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,18 +55,18 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   20 hrs 5 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
-Markdown                 9 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-TypeScript               8 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-HTML                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Python                   20 hrs              ████████████░░░░░░░░░░░░░   49.93 % 
+Markdown                 7 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TypeScript               5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+HTML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Bash                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 40 mins      █████████████░░░░░░░░░░░░   51.86 % 
-Zed                      21 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+Zed                      21 hrs 41 mins      ██████████████░░░░░░░░░░░   54.12 % 
+VS Code                  18 hrs 23 mins      ███████████░░░░░░░░░░░░░░   45.88 % 
 
 💻 Operating System: 
-Mac                      43 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 02:51:24 UTC
+ Last Updated on 18/08/2026 02:46:28 UTC
 <!--END_SECTION:waka-->
 
 ---

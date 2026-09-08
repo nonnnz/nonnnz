@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C214%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,21 +55,21 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   21 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.24 % 
-TypeScript               10 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Markdown                 9 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-YAML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Bash                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Python                   17 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.47 % 
+TypeScript               12 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Markdown                 9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+YAML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Bash                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 34 mins      ████████████░░░░░░░░░░░░░   47.61 % 
-Zed                      24 hrs 2 mins       ████████████░░░░░░░░░░░░░   46.56 % 
-Claude Code              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Antigravity CLI          54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Zed                      24 hrs 14 mins      █████████████░░░░░░░░░░░░   51.15 % 
+VS Code                  20 hrs 29 mins      ███████████░░░░░░░░░░░░░░   43.24 % 
+Claude Code              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Antigravity CLI          32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      48 hrs 51 mins      ████████████████████████░   94.65 % 
-Linux                    2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Mac                      44 hrs 37 mins      ████████████████████████░   94.17 % 
+Linux                    2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +89,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 06:43:47 UTC
+ Last Updated on 08/09/2026 06:39:39 UTC
 <!--END_SECTION:waka-->
 
 ---

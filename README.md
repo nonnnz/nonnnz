@@ -24,28 +24,28 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C469%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C474%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.12%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                114 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-🌃 Evening                126 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌙 Night                  128 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌞 Morning                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+🌆 Daytime                124 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+🌃 Evening                127 commits         ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+🌙 Night                  130 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Sunday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Friday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Sunday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 
 
@@ -55,31 +55,31 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               11 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Python                   9 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Markdown                 6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Other                    6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Text                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+TypeScript               12 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Python                   10 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Markdown                 9 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Other                    6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Text                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-Zed                      19 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.90 % 
-Claude Code              10 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-VS Code                  8 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Codex Vscode             1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Zed                      19 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
+Claude Code              10 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+VS Code                  9 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Codex Vscode             4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 
 💻 Operating System: 
-Mac                      37 hrs 26 mins      ███████████████████████░░   92.15 % 
-Linux                    3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Mac                      38 hrs 34 mins      █████████████████████░░░░   85.76 % 
+Linux                    6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -89,7 +89,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 06:38:04 UTC
+ Last Updated on 16/10/2026 06:32:02 UTC
 <!--END_SECTION:waka-->
 
 ---

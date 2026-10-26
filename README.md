@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C526%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,22 +55,21 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 22 hrs 57 mins      ███████████░░░░░░░░░░░░░░   44.20 % 
-Python                   12 hrs 58 mins      ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Other                    7 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-JSON                     3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-JavaScript               2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 24 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   39.89 % 
+Python                   16 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+Other                    10 hrs 41 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+JSON                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Text                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Zed                      32 hrs 19 mins      ████████████████░░░░░░░░░   62.22 % 
-Claude Code              15 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   30.00 % 
-VS Code                  2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-OpenCode                 50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Codex Vscode             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Zed                      41 hrs 18 mins      █████████████████░░░░░░░░   67.04 % 
+Claude Code              16 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+VS Code                  2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+OpenCode                 56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Linux                    38 hrs 54 mins      ███████████████████░░░░░░   74.89 % 
-Mac                      13 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Linux                    45 hrs 2 mins       ██████████████████░░░░░░░   73.09 % 
+Mac                      16 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +89,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 06:40:08 UTC
+ Last Updated on 26/10/2026 07:10:54 UTC
 <!--END_SECTION:waka-->
 
 ---

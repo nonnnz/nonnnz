@@ -24,28 +24,28 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C592%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C616%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                125 commits         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-🌃 Evening                160 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  135 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌞 Morning                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+🌆 Daytime                125 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌃 Evening                162 commits         ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌙 Night                  135 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Wednesday                92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
 ```
 
 
@@ -76,11 +76,11 @@ Mac                      22 hrs 56 mins      █████████░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -90,7 +90,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 08:14:59 UTC
+ Last Updated on 05/11/2026 08:40:40 UTC
 <!--END_SECTION:waka-->
 
 ---

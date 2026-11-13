@@ -24,28 +24,28 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C660%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-🌆 Daytime                125 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-🌃 Evening                162 commits         ████████░░░░░░░░░░░░░░░░░   33.61 % 
-🌙 Night                  135 commits         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+🌞 Morning                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌆 Daytime                125 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌃 Evening                162 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌙 Night                  137 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Wednesday                92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Friday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Sunday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
 ```
 
 
@@ -55,20 +55,20 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   19 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.61 % 
-Markdown                 18 hrs 1 min        █████████░░░░░░░░░░░░░░░░   37.07 % 
-Other                    4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-TypeScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 32 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.51 % 
+Python                   23 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   33.94 % 
+Other                    6 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+TypeScript               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Zed                      19 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.98 % 
-VS Code                  15 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   32.48 % 
-Claude Code              12 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Zed                      33 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.37 % 
+Claude Code              19 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+VS Code                  16 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 
 💻 Operating System: 
-Mac                      45 hrs 9 mins       ███████████████████████░░   92.88 % 
-Linux                    3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Mac                      53 hrs 18 mins      ███████████████████░░░░░░   77.02 % 
+Linux                    15 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,7 +88,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 08:56:02 UTC
+ Last Updated on 13/11/2026 08:52:17 UTC
 <!--END_SECTION:waka-->
 
 ---

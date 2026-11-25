@@ -24,7 +24,7 @@ I am a Computer Science student at **King Mongkut's University of Technology Nor
 
 ## 🛠 Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C762%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C765%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,21 +55,21 @@ Sunday                   103 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 26 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.31 % 
-Python                   10 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Go                       8 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Other                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-JavaScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Markdown                 19 hrs 48 mins      ██████████████░░░░░░░░░░░   55.18 % 
+Python                   9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Other                    3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   36.40 % 
-Zed                      19 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.97 % 
-Exec Wakatime            11 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-VS Code                  4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Claude Code              16 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.67 % 
+Zed                      13 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   38.93 % 
+VS Code                  5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Exec Wakatime            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      41 hrs 19 mins      ███████████████████░░░░░░   75.77 % 
-Linux                    13 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Mac                      24 hrs 28 mins      █████████████████░░░░░░░░   68.22 % 
+Linux                    11 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   31.78 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +89,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nonnnz/nonnnz/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 11:44:32 UTC
+ Last Updated on 25/11/2026 10:38:25 UTC
 <!--END_SECTION:waka-->
 
 ---
